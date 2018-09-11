@@ -1,5 +1,6 @@
 # Lista3-EDA2_2018.2
 @fepas
+16/0119553
 
 
 Ambos os arquivos dependem das bibliotecas matplotlib e numpy,
